@@ -1,10 +1,10 @@
-<!-- 🎥 Animated Banner -->
+<!-- 🔥 TOP BANNER -->
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" />
+  <img src="https://i.gifer.com/7VE.gif" width="100%" alt="banner" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Shashank Tiwari</h1>
-<h3 align="center">🚀 A passionate Frontend Developer from India</h3>
+<h3 align="center">🚀 A passionate MERN Stack Developer from India 🇮🇳</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=shashankia&label=Profile%20views&color=0e75b6&style=flat" alt="shashankia" />
@@ -12,77 +12,76 @@
 
 ---
 
-- 🔭 I’m currently working on: **RojgarSetu - MERN-based Job Portal**
-- 🌱 I’m currently learning: **Advanced MERN Stack & System Design**
+### 🚀 About Me:
+
+- 🌱 Currently learning **Advanced MERN Stack & System Design**
 - 💬 Ask me about: **React, Tailwind, Node.js, MongoDB**
-- ⚡ Fun fact: *I can debug code faster than I can cook noodles! 🍜*
+- 🛠 Building: [RojgarSetu](https://github.com/Shashankia/mern-job-portal) – A job portal
+- 🧠 Fun fact: I debug like a detective 🕵️‍♂️ and code like an artist 🎨
 
 ---
 
-## 🌐 Connect with me:
+### 🌐 Connect with Me:
 
 <p align="left">
-  <a href="https://twitter.com/@shashank03q" target="blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="twitter" width="30" height="30"/>
+  <a href="https://twitter.com/@shashank03q" target="_blank">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" alt="twitter" width="30" height="30"/>
   </a>
-  <a href="https://linkedin.com/in/shashank-tiwari-1816082bb" target="blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" width="30" height="30"/>
+  <a href="https://linkedin.com/in/shashank-tiwari-1816082bb" target="_blank">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="linkedin" width="30" height="30"/>
   </a>
 </p>
 
 ---
 
-## 🛠️ Languages and Tools:
+### 🛠️ Tech Stack
 
 <p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
-  <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/invisionapp/invisionapp-icon.svg" alt="invision" width="40" height="40"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white" />
 </p>
 
 ---
 
-## 📌 Featured Projects
+### 📌 Pinned Projects
 
-### 🚀 [RojgarSetu](https://github.com/Shashankia/mern-job-portal)
-A dynamic MERN-based job portal connecting job seekers and recruiters in real-time.  
-Tech Stack: React, Node.js, Express, MongoDB  
-✨ Features: Job search, Apply/Recruit, JWT Auth, Role-based access
+#### 🚀 [RojgarSetu – MERN Job Portal](https://github.com/Shashankia/mern-job-portal)
+> Real-time job search + recruiter dashboard with full-stack features like login/auth, apply job, role management.
 
----
-
-### 🌐 [Portfolio Website](https://github.com/Shashankia/portfolio)
-My personal portfolio showcasing skills, projects, and contact info.  
-Tech Stack: React.js, CSS Animations, Netlify Hosting  
-🎨 Features: Dark/Light mode, Smooth scroll, Fully responsive
+#### 🌐 [Portfolio Website](https://github.com/Shashankia/portfolio)
+> Responsive React-based portfolio with smooth scroll, animated UI, and personal branding.
 
 ---
 
-## 📊 GitHub Stats
+### 📊 GitHub Stats + GIF Combo
+
+<div align="center">
+  <img align="left" src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="200" />
+
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=shashankia&show_icons=true&theme=tokyonight" width="450"/>
+
+</div>
+
+<br clear="both"/>
+
+---
+
+### 🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shashankia&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shashankia&theme=tokyonight" />
 </p>
 
 ---
 
-## 🔥 GitHub Streak
+### 🌍 Top Languages
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shashankia&theme=radical" alt="streak"/>
-</p>
-
----
-
-## 🧠 Top Languages
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shashankia&layout=compact&theme=radical" alt="top languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shashankia&layout=compact&theme=tokyonight" />
 </p>
